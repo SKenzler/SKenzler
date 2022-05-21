@@ -1,4 +1,4 @@
-![Web Banner with Avatar](GitHub_Web_Banner.jpg)
+![Web Banner with Avatar](GitHub_Web_Banner_02.jpg)
 
 <h2 align="center">Hey guys 👋, I'm Shane</h2>
 <h3 align="center">Frontend Developer</h3>
