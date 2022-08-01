@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Dashboard - Live Run Sheet**
 
-- 🌱 I’m currently learning **jQuery**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **shanekenzler@gmail.com**
 
