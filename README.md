@@ -3,9 +3,9 @@
 <h2 align="center">Hey guys 👋, I'm Shane</h2>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on **Dashboard - Live Run Sheet**
+- 🔭 I’m currently working on **React e-commerce cards**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently building apps using **React**
 
 - 📫 How to reach me **shanekenzler@gmail.com**
 
@@ -13,7 +13,11 @@ ___
 
 #### Background
 
-I have been in the **Print Industry** for over 10 years, designing Billboards, Banners, Fascias, Vehicle Wraps and Pylons. Recently, my focus has shifted toward a career change into Web Development. Now, mm become px and CYMK become RGB. I look forward to the challenge and am excited about the future.
+I have been working in the Print Industry for over fifteen years. In my role, I am constantly trying to innovate, automate and streamline. Managing my team I ensure continual improvements to workflows, encouraging innovation and promoting an agile workfoce.
+
+Recently, my focus has shifted. With any kind of growth comes change and my interest in Web Development has lead me to pursue a career as a Frontend Developer. CMYK has now become RGB and millimetres have become pixels.
+
+I am passionate about code and my design methodology involves creating wireframe and designs in Figma, then coding the design in VS Code.
 
 ___
 
