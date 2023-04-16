@@ -13,11 +13,11 @@ ___
 
 #### Background
 
-I have been working in the Print Industry for over fifteen years. In my role, I am constantly trying to innovate, automate and streamline. Managing my team I ensure continual improvements to workflows, encouraging innovation and promoting an agile workfoce.
+My passion is building and deploying web apps developed using React combined with a solid grounding in HTML5, CSS3 and JavaScript. In addition, I have derived strong programming principles from attaining a Bachelor Degree in Computer Science, enabling me to apply these skills toward the completion of personal projects.
 
-Recently, my focus has shifted. With any kind of growth comes change and my interest in Web Development has lead me to pursue a career as a Frontend Developer. CMYK has now become RGB and millimetres have become pixels.
+I have been working in the Print Industry for over fifteen years. Problem solving is a key component of mycurrent role as Production Supervisor. I am constantly finding ways to automate processes, streamline workflows and empower each team member. I have built a strong, highly efficient team by encouraging innovation, promoting an agile workforce and supporting open communication.
 
-I am passionate about code and my design methodology involves creating wireframe and designs in Figma, then coding the design in VS Code.
+Self development and growth are important to me. I am active in increasing my knowledge base and pushing into new and exciting opportunities.
 
 ___
 
