@@ -1,6 +1,6 @@
-![Web Banner with Avatar](GitHub_Web_Banner_02.jpg)
+![GitHub Profile Banner](github-banner-2024.png)
 
-<h2 align="center">Hi everyone, I'm Shane</h2>
+<h2 align="center">Hi I'm Shane</h2>
 <h3 align="center">Frontend React Developer</h3>
 
 - 🔭 I’m currently working on **React Tennis Match Statistic App**
