@@ -1,14 +1,4 @@
 ![GitHub Profile Banner](github-banner-2024.png)
-
-<h2 align="center">Hi I'm Shane</h2>
-<h3 align="center">Frontend React Developer</h3>
-
-- 🔭 I’m currently working on **React Tennis Match Statistic App**
-
-- 🌱 I’m currently building apps using **React with Frame Motion**
-
-- 📫 How to reach me **shanekenzler@gmail.com**
-
 ___
 
 #### Background
@@ -20,8 +10,5 @@ I have been working in the Print Industry for over fifteen years. Problem solvin
 Self development and growth are important to me. I am active in increasing my knowledge base and pushing into new and exciting opportunities.
 
 ___
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> "<img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="40" height="40"/> </a> <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> <img src="https://konstantinlebedev.com/static/76d81ec25cd799b15cd16c0b16e869af/d52e5/cover.png" height="60"><a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="Tailwind" height="60"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height"40"/> </a?</p>
 
 
