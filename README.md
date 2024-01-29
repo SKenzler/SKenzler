@@ -1,4 +1,4 @@
-![GitHub Profile Banner](github-banner-2024.png)
+![GitHub Profile Banner](GitHub-Banner.png)
 ___
 
 #### Background
