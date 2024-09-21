@@ -3,11 +3,7 @@ ___
 
 #### Background
 
-My passion is designing, building and deploying scalable web apps. My skill set includes a solid grounding in HTML5, CSS3, JavaScript and React. In addition, I have derived strong programming principles from attaining a Bachelor Degree in Computer Science, enabling me to apply these skills toward the completion of personal projects.
-
-I have been working in the Print Industry for over fifteen years. Problem solving is a key component of my current role as Production Supervisor. I am constantly finding ways to automate processes, streamline workflows and empower each team member. I have built a strong, highly efficient team by encouraging innovation, promoting an agile workforce and supporting open communication.
-
-Self development and growth are important to me. I am active in increasing my knowledge base and pushing into new and exciting opportunities.
+Embracing tech, this is where I'm at. So many frameworks and libraries to build from, not to mention some really incredible AI technologies to build smarter. My new design process begins using relume to create a sitemaps and generate wireframes. These sitemaps and wireframes can be imported straight into Figma. After creating a mood board, design decisions can be made about fonts, colours, icons, images, components and animations. I'm currently exploring Framer as a development tool but have also started to incorporate Codeium into my build process in VS Code. So many possibilities. It's an exciting time for designers and developers to push the possibilites of creativity. 
 
 ___
 
